@@ -1,1 +1,20 @@
 /* your code */
+table{
+	border:1px solid ;
+	border-radius:10px
+}
+thead{
+	text-align:center;
+	background-color:rgba(0,0,255,.5);
+	color:white;
+
+}
+tbody{
+	text-align:center;
+}
+#r1{
+	background-color:lightgray;
+}
+#r2{
+	background-color:lightgray;
+}
